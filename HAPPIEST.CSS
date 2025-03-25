@@ -1,0 +1,120 @@
+#email{
+    font-size: 8px;
+    color: #555a59;
+    margin-right: 10px;
+    margin-bottom: 80px;
+}
+#password{
+    font-size: 8px;
+    color: #555a59;
+    margin-right: 10px;
+}
+#emaiin{
+    height: 10px;
+    width: 120px;
+    border-color: orange;
+    border-width: thin;
+    margin-left: 10px;
+    background-color: #f4f8f7;
+    color: #88908e;
+}
+#password-ele{
+    height: 10px;
+    width: 120px;
+    border-color: orange;
+    border-width: thin;
+    background-color: #f4f8f7;
+    color: #88908e;
+}
+
+h5{
+    font-family: Arial, Helvetica, sans-serif;
+}
+.main{
+    
+    justify-content: center;
+    margin-top: 60px;
+    margin-left: 90px;
+}
+::placeholder{
+    font-size: 6px;
+    color: black;
+    border-width: 1px;
+}
+#btn{
+    font-size: 8px;
+    height: 15px;
+    width: 120px;
+    background-color: rgba(255, 166, 0, 0.986);
+    border-radius: 3px;
+    border-width: thin;
+    margin-left: 46px;
+    margin-top: 10px;
+    
+}
+#btn:hover{
+    background-color: rgba(255, 0, 0, 1);
+}
+#applybtn{
+    background-color: transparent;
+    background: transparent;
+    border: none;
+    font-weight: 600;
+    text-decoration: none;
+    color: #f3410b;
+    font-family: "Poppins", sans-serif;
+    cursor: pointer;
+    font-size: 5px;
+    margin-top: 20px;
+    margin-left: 80px;
+
+}
+#aa:hover{
+    font-size: 7px;
+}
+#ore{
+    font-size: 8px;
+}
+#signup{
+    font-family: poppins",sans-serif";
+    
+    background-color: #fff;
+    color: rgba(128, 128, 128, 0.952);
+    margin-bottom: 50px;
+    
+    
+}
+.bb
+{
+    
+    background-color: #f3410b;
+    border: none;
+    text-transform: lowercase;
+    color: #fff;
+    font-size: 8px;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-left: 4px;
+    
+    
+    
+}
+
+#signup{
+border: none;
+font-size: 8px;
+margin-right: 70px;
+margin-left: 60px;
+margin-bottom: 80px;
+
+}
+
+
+
+#signup:hover{
+    font-size: 6px;
+    color: rgba(0, 0, 0, 0.815)
+}
+.main{
+    display: flex;
+    gap: 200%;
+}
