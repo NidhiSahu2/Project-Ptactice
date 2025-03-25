@@ -1,0 +1,101 @@
+h1{
+    font-family: 'Times New Roman', Times, serif;
+    font-family: 15px;
+}
+#naam{
+    color: grey;
+    height: 30px;
+    width: 220px;
+    
+    border-color: orange;
+
+}
+
+
+
+#emal{
+    color: grey;
+    height: 30px;
+    width: 220px;
+   
+    border-color: orange;
+}
+
+
+
+#con
+{
+    color: grey;
+    height: 30px;
+    width: 220px;
+    border-color: orange;
+}
+#select{
+    color: grey;
+
+    height: 30px;
+    width: 220px;
+    
+    border-color: orange;
+
+}
+#Massage{
+    color: grey;
+    height: 30px;
+    width: 220px;
+    border-color: orange;
+    
+
+}
+
+
+#conn
+{
+    margin-left: 1500px;
+    margin-top: 1300px;
+}
+#sin
+{
+    height: 150px;
+    width: 220px;
+    background-color: orange;
+    font-size: 15px;
+}
+#sin:hover{
+font-size: 18px;
+}
+a{
+    color: black;
+    font-size: 25px;
+}
+.importantlinks{
+    margin-left: 900px;
+    margin-top: -350px;
+    
+    
+}
+h1{
+    font-family: Arial, Helvetica, sans-serif;
+}
+.pp
+{
+font-size: 25px;
+color: grey;
+font-family:  Arial, Helvetica, sans-serif;
+margin-right: 500px;
+
+}
+.aboutt{
+    margin-right: 100px;
+    margin-top: 400px;
+    margin-bottom: 900px;
+
+
+}
+
+#logo{
+    margin-bottom: 400px;
+    margin-left: 200px;
+
+    
+}
