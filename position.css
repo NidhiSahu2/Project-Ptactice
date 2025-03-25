@@ -1,0 +1,104 @@
+/*.div1{
+    height: 60px;
+    width:60px;
+    background-color: blueviolet;
+    position: relative;
+    background-image: url('https://5.imimg.com/data5/SELLER/Default/2024/1/376428855/BS/SL/UG/150894369/nature-wallpaper.png');
+    background-size: cover;
+    position: absolute;
+    right: 0px;
+    position: fixed;
+    margin-right: 40px;
+}
+
+.div2{
+    height: 60px;
+    width: 60px;
+    background-color: blue;
+    position: absolute;
+}*/
+
+/*maindiv{
+    display: flex;
+    flex-direction: column;
+    /*justify-content: flex-start;
+    flex: wrap;
+    height: 80px;
+    width: 80px;
+    background-color: rgb(251, 255, 0);
+    text-align: center;
+}
+
+.div1{
+    height: 20px;
+    width: 20px;
+    background-color: blue;
+    display: flex;
+    flex-direction: row-reverse;
+    justify-content: flex-end;
+    position: absolute;
+    text-align: end;
+
+}
+
+.div2{
+    height: 50px;
+    width: 50px;
+    background-color: brown;
+}*/
+
+/*.maindiv{
+    height: 400px;
+    width: 400px;
+    background-color: blue;
+    display: flex;
+    justify-content: center;
+    
+    
+}
+.div2{
+    
+height: 100px;
+width: 100px;
+background-color: green;
+text-align: center;
+margin-top: 140px;
+}*/
+
+
+/*.maindiv{
+    height: 50px;
+    width: 600px;
+    background-color: palevioletred;
+}*/
+/*.maindiv:hover{
+    background-color: cadetblue;
+}*/
+/*@media(width: 600px)  {
+    maindiv{
+border-color: blue;
+    }
+}*/
+
+
+div{
+    height: 100px;
+    width: 100px;
+    background-color: brown;
+    border: 2px solid black;
+    /*transition-property: all;
+    transition-duration: 2s;
+    transition-timing-function: ease-in ;
+    transition-delay: 1s;*/
+    transform: rotate(360deg);
+}
+
+/*div:hover{
+    background-color: red;
+    color: white;
+    font-size: 10px;
+}
+/* active means click karna//
+div:active{
+    background-color: aqua;
+}*/
