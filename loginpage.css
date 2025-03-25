@@ -1,0 +1,56 @@
+.heading{
+    text-align: center;
+}
+h1{
+    text-align: center;
+
+   
+}
+.name-ele{
+   
+    width: 200px;
+    height: 30px;
+    }
+    
+    
+    
+
+.password-ele{
+    width: 200px;
+    height:30px;
+    
+}
+.email-ele
+{
+    width: 200px;
+    height: 30px;
+    
+
+}
+.clickbtn{
+    width:30px ;
+    height: 60px;
+
+}
+.login-box
+
+{
+    margin-left : 50px;
+    margin-right : 50px;
+}
+ .btn   
+{
+    background-color: aqua;
+    border-radius: 40px;
+    margin-top: 40px;
+    
+}
+.head{
+    color: grey;
+}
+.img{
+    height: 20px;
+    width : 20px;
+    background-attachment: fixed;
+    border: 30px;
+} 
